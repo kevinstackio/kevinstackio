@@ -1,0 +1,16 @@
+{
+  "name": "kevinstackio",
+  "description": "Kevin Lin's personal website and blog",
+  "author": "Kevin Lin",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
