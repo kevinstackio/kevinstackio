@@ -5,7 +5,5 @@
 This is my personal space on the web — a place where I share projects, write about what I’m learning, and document my
 journey as a developer.
 
-🌐 Live site: [kevinstack.dev](https://kevinstack.dev)
-
-
-
+| **Live Site** | [kevinstack.dev](https://kevinstack.dev) |
+|---------------|------------------------------------------|
