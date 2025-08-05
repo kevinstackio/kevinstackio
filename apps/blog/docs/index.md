@@ -4,8 +4,11 @@ layout: home
 
 hero:
   name: "Kevin Blog"
-  text: "Kevin’s personal blog."
-  tagline: My great project tagline
+  text: "Kevin's personal blog"
+  tagline: Done First Then Perfect
+  image:
+    src: /images/icons/vitepress.svg
+    alt: Kevin Blog Logo
   actions:
     - theme: brand
       text: Markdown Examples
