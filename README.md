@@ -6,8 +6,8 @@ This is my personal space on the web — a place where I share projects, write a
 
 ### 🚀 Projects
 
-| Project | Website | Description |
-|--------|---------|-------------|
-| [KevinStack](https://github.com/kevinstackio/kevinstackio) | [kevinstack.dev](https://kevinstack.dev/) | My personal developer site and blog. |
-| [JapanPR](https://github.com/kevinstackio/japan-pr-hsp) | [japan.kevinstack.dev](https://japan.kevinstack.dev/) | Path to Japan PR through HSP. |
-| [ClawRadar](https://github.com/kevinstackio/claw-radar) | [clawradar.kevinstack.dev](https://clawradar.kevinstack.dev/) | Mapping exposed OpenClaw instances worldwide. |
+| Project | Category | Description |
+|---------|----------|-------------|
+| [**KevinStack**](https://kevinstack.dev/) | Personal · Site | My personal website and blog. |
+| [**JapanPR**](https://japan.kevinstack.dev/) | Life · Journey | My journey to Japan PR via HSP. |
+| [**ClawRadar**](https://clawradar.kevinstack.dev/) | Research · Security | Visualizing exposed OpenClaw instances worldwide. |
